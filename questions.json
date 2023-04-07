@@ -1,0 +1,112 @@
+[
+  {
+    "id":1,
+    "type": "multiple_choice",
+    "question": "Who is known as the father of computer science?",
+    "options": [
+      "Charles Babbage",
+      "Alan Turing",
+      "John von Neumann",
+      "Ada Lovelace"
+    ],
+    "answer": "x",
+    "points": 10,
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Charles_Babbage_1860.jpg"
+  },
+  {
+    "id":2,
+    "type": "short_answer",
+    "question": "What does CPU stand for?",
+    "answer": "Lol",
+    "points": 10,
+    "image_link": ""
+  },
+  {
+    "id":3,
+    "type": "multiple_choice",
+    "question": "Which of the following is the first commercially successful video game?",
+    "options": [
+      "Tennis for Two",
+      "Pong",
+      "Space Invaders",
+      "Pac-Man"
+    ],
+    "answer": "r",
+    "points": 10,
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Pong.png?20060521134835"
+  },
+  {
+    "id":4,
+    "type": "short_answer",
+    "question": "What was the name of the first electronic general-purpose computer?",
+    "answer": "Big Mac",
+    "points": 10,
+    "image_link": ""
+  },
+      {
+    "id": 5,
+    "type": "multiple_choice",
+    "question": "Which programming language was developed by James Gosling at Sun Microsystems?",
+    "options": [
+      "Python",
+      "Java",
+      "C++",
+      "Ruby"
+    ],
+    "answer": "sdfsdf",
+    "points": 10,
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/James_Gosling_2008.jpg/1024px-James_Gosling_2008.jpg"
+  },
+  {
+    "id": 6,
+    "type": "short_answer",
+    "question": "What does the acronym RAM stand for?",
+    "answer": "Random",
+    "points": 10,
+    "image_link": ""
+  },
+  {
+    "id": 7,
+    "type": "multiple_choice",
+    "question": "Which company was founded by Bill Gates and Paul Allen?",
+    "options": [
+      "Apple",
+      "Microsoft",
+      "IBM",
+      "Hewlett-Packard"
+    ],
+    "answer": "sdfsdafasd",
+    "points": 10,
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/4/4f/1981BillPaul.jpg"
+  },
+  {
+    "id": 8,
+    "type": "short_answer",
+    "question": "What does the acronym URL stand for?",
+    "answer": "Uniform Resource Locator",
+    "points": 10,
+    "image_link": ""
+  },
+  {
+    "id": 9,
+    "type": "multiple_choice",
+    "question": "What was the first web browser invented by Sir Tim Berners-Lee?",
+    "options": [
+      "Mosaic",
+      "Netscape Navigator",
+      "Internet Explorer",
+      "WorldWideWeb"
+    ],
+    "answer": "p",
+    "points": 10,
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg/800px-Sir_Tim_Berners-Lee_%28cropped%29.jpg"
+  },
+  {
+    "id": 10,
+    "type": "short_answer",
+    "question": "What is the name of the scientist who invented the World Wide Web?",
+    "answer": "Tim Boo booo",
+    "points": 10,
+    "image_link": ""
+  }
+]

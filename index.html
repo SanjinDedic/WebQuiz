@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Computer Science Quiz</title>
+  <link rel="stylesheet" href="quiz.css">
+</head>
+<body>
+  <div class="main-container">
+    <div class="container" id="login-container">
+      <h1>Login</h1>
+      <div>
+        <label for="team_name">Team Name:</label>
+        <input type="text" id="team_name">
+      </div>
+      <div>
+        <label for="password">Password:</label>
+        <input type="password" id="password">
+      </div>
+      <button onclick="login()">Login</button>
+      <p id="login-error" class="hidden"></p>
+    </div>
+    <div class="container hidden" id="quiz-container">
+      <h1>Computer Science Quiz</h1>
+      <p id="score-display">Score: 0</p>
+      <div class="question-container">
+        <p id="question"></p>
+        <img id="question-image" src="" alt="Question related image" style="width: 50%; display: none;">
+        <div id="multiple_choice_options">
+          <div>
+            <input type="radio" name="option" value="a" id="option_a">
+            <label for="option_a" id="option-a"></label>
+          </div>
+          <div>
+            <input type="radio" name="option" value="b" id="option_b">
+            <label for="option_b" id="option-b"></label>
+          </div>
+          <div>
+            <input type="radio" name="option" value="c" id="option_c">
+            <label for="option_c" id="option-c"></label>
+          </div>
+          <div>
+            <input type="radio" name="option" value="d" id="option_d">
+            <label for="option_d" id="option-d"></label>
+          </div>
+        </div>
+        <div id="short_answer_input" class="hidden">
+          <input type="text" placeholder="Your answer" id="short_answer">
+        </div>
+        <button onclick="submitAnswer()">Submit</button>
+      </div>
+      <p id="result" class="hidden"></p>
+    </div>
+  </div>
+  <script src="quiz.js"></script>
+</body>
+</html>
