@@ -15,7 +15,7 @@ This repository contains the source code for a simple quiz website built with HT
 
 ## Getting Started
 
-First visit the current website to see it in action: [https://sanjin84.github.io/WebQuizAPI/] :+1:
+First visit the current website to see it in action: [https://sanjin84.github.io/WebQuiz] :+1:
 
 Use credentials:
 
