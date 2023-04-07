@@ -1,0 +1,75 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  width: 100%;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed; /* Add this line */
+}
+
+table th,
+table td {
+  width: 33.33%; /* Add this line */
+  padding: 0.5rem;
+  text-align: left;
+  border-bottom: 1px solid #dddddd;
+}
+
+table th {
+  background-color: #f2f2f2;
+}
+
+@media (max-width: 600px) {
+  table {
+    font-size: 14px;
+  }
+}
+
+
+
+.navbar {
+  background-color: #333;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0.5rem 0;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+}
+
+.navbar a:hover {
+  background-color: #111;
+}
+
+.team-name {
+  color: white;
+}
+
+.main-container {
+  margin-top: 3rem;
+}

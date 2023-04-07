@@ -94,6 +94,10 @@ function showResult() {
   document.querySelector('.question-container').classList.add('hidden');
   document.getElementById("result").innerText = `Your score: ${score}/${questions.length}`;
   document.getElementById("result").classList.remove('hidden');
+
+  setTimeout(() => {
+    window.location.href = "RANKINGS/index.html";
+  }, 8000); // 5000ms (5 seconds) delay before redirecting
 }
 
 // Update the displayed score
@@ -105,7 +109,6 @@ function updateScoreDisplay() {
 async function login() {
   const teamName = document.getElementById('team_name').value;
   const password = document.getElementById('password').value;
-  const proxyUrl = "https://api.allorigins.win/raw?url=";
 
   const response = await fetch('https://vccfinal.online/login', {
     method: 'POST',
@@ -118,18 +121,25 @@ async function login() {
   const data = await response.json();
   console.log(data);
 
-   // Check if the login is successful
+  // Check if the login is successful
   if (data.message && data.message.includes('Login successful')) {
     // Hide the login container and show the quiz container
     document.getElementById('login-container').classList.add('hidden');
     document.getElementById('quiz-container').classList.remove('hidden');
+    localStorage.setItem("currentTeam", teamName);
     fetchQuestions();
+
+    // Show the navbar and update the team name display
+    document.querySelector('.navbar').classList.remove('hidden');
+    document.getElementById('team-name-display').textContent = `Team: ${teamName}`;
   } else {
     // Show an error message if the login failed
     document.getElementById('login-error').innerText = 'Invalid team name or password';
     document.getElementById('login-error').classList.remove('hidden');
   }
 }
+
+
 
 // Fetch questions when the script is loaded
 fetchQuestions();
