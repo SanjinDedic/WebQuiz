@@ -18,12 +18,15 @@ This repository contains the source code for a simple quiz website built with HT
 First visit the current website to see it in action: [https://sanjin84.github.io/WebQuizAPI/] :+1:
 
 Use credentials:
+
 ```Username: GitTest```
+
 ```Password: git```
 
 Then clone this repository and open the `index.html` file in your preferred web browser.
 
 ```git clone https://github.com/Sanjin84/WebQuizAPI```
+
 ```cd WebQuizAPI```
 
 
