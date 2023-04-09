@@ -1,4 +1,4 @@
-# WebQuizAPI
+# WebQuiz
 This repository contains the source code for a simple quiz website built with HTML, CSS, and JavaScript. The quiz features multiple-choice and short-answer questions, as well as a team-based leaderboard.
 
 This repository contains the source code for a simple quiz website built with HTML, CSS, and JavaScript. The quiz features multiple-choice and short-answer questions, as well as a team-based leaderboard.
@@ -15,10 +15,19 @@ This repository contains the source code for a simple quiz website built with HT
 
 ## Getting Started
 
-To get started, simply clone this repository and open the `index.html` file in your preferred web browser.
+First visit the current website to see it in action: [https://sanjin84.github.io/WebQuiz] :+1:
 
-`git clone https://github.com/Sanjin84/WebQuizAPI
-cd WebQuizAPI`
+Use credentials:
+
+```Username: GitTest```
+
+```Password: git```
+
+Then clone this repository and open the `index.html` file in your preferred web browser.
+
+```git clone https://github.com/Sanjin84/WebQuizAPI```
+
+```cd WebQuizAPI```
 
 
 ## Contributing
