@@ -1,17 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<script>
+  const setBaseURL = () => {
+    let baseurl;
+    if (window.location.hostname === "sanjin84.github.io") {
+      baseurl = "/WebQuiz";
+    } else {
+      baseurl = "";
+    }
+    const base = document.createElement("base");
+    base.href = baseurl + "/";
+    document.head.appendChild(base);
+  };
+  setBaseURL();
+</script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Default Template</title>
-  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
   <nav class="navbar">
-    <a href="/index.html">Reset</a>
-    <a href="/pages/rankings.html">Rankings</a>
-    <a href="/pages/about.html">About</a>
-    <a href="/pages/template.html">Template</a>
+    <a href="index.html">Reset</a>
+    <a href="pages/rankings.html">Rankings</a>
+    <a href="pages/about.html">About</a>
+    <a href="pages/template.html">Template</a>
     <span id="team-name-display" class="team-name"></span>
   </nav>
   <div class="main-container">

@@ -1,22 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<script>
+  const setBaseURL = () => {
+    let baseurl;
+    if (window.location.hostname === "sanjin84.github.io") {
+      baseurl = "/WebQuiz";
+    } else {
+      baseurl = "";
+    }
+    const base = document.createElement("base");
+    base.href = baseurl + "/";
+    document.head.appendChild(base);
+  };
+  setBaseURL();
+</script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Ranking Table</title>
-  <link rel="stylesheet" href="/css/rankings.css">
+  <link rel="stylesheet" href="css/rankings.css">
 </head>
 <body>
   <nav class="navbar">
-    <a href="/index.html">Reset</a>
-    <a href="/pages/rankings.html">Rankings</a>
-    <a href="/pages/about.html">About</a>
-    <a href="/pages/template.html">Template</a>
+    <a href="index.html">Reset</a>
+    <a href="pages/rankings.html">Rankings</a>
+    <a href="pages/about.html">About</a>
+    <a href="pages/template.html">Template</a>
     <span id="team-name-display" class="team-name"></span>
   </nav>
   <section class="container main-container">
     <table id="ranking-table" class="ranking-table"></table>
   </section>
-  <script src="/js/rankings.js"></script>
+  <script src="js/rankings.js"></script>
 </body>
 </html>

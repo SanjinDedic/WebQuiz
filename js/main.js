@@ -96,7 +96,13 @@ function showResult() {
   document.getElementById("result").classList.remove('hidden');
 
   setTimeout(() => {
-    window.location.href = "/rankings.html";
+    let baseurl;
+    if (window.location.hostname === "sanjin84.github.io") {
+      baseurl = "/WebQuiz";
+    } else {
+      baseurl = "";
+    }
+    window.location.href = `${baseurl}/pages/rankings.html`;
   }, 8000); // 5000ms (5 seconds) delay before redirecting
 }
 
