@@ -70,8 +70,9 @@ async function submitAnswer() {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
+      'Authorization': 'Bearer ' + localStorage.getItem("access_token"),
     },
-    body: JSON.stringify({ "id": id, "answer": answer, "team_name": teamName }),
+    body: JSON.stringify({ "id": id, "answer": answer, "team_name": teamName, "table": "teams" }),
   });
 
   const responseData = await response.json();
@@ -84,7 +85,6 @@ async function submitAnswer() {
   } else {
     console.log("Answer is incorrect");
   }
-
   currentQuestionIndex++;
   displayQuestion();
 }
@@ -96,7 +96,7 @@ function showResult() {
   document.getElementById("result").classList.remove('hidden');
 
   setTimeout(() => {
-    window.location.href = "RANKINGS/index.html";
+    window.location.href = "/pages/rankings.html";
   }, 8000); // 5000ms (5 seconds) delay before redirecting
 }
 
@@ -105,38 +105,39 @@ function updateScoreDisplay() {
   document.getElementById("score-display").innerText = `Score: ${score}`;
 }
 
+
+function showQuizContainer() {
+  document.getElementById("login-container").classList.add("hidden");
+  document.getElementById("quiz-container").classList.remove("hidden");
+  document.getElementById("team-name-display").innerText = document.getElementById("team_name").value;
+}
+
+
+
 // Login function to authenticate the user
 async function login() {
-  const teamName = document.getElementById('team_name').value;
-  const password = document.getElementById('password').value;
+  const teamName = document.getElementById("team_name").value;
+  const password = document.getElementById("password").value;
 
-  const response = await fetch('https://vccfinal.online/login', {
-    method: 'POST',
+  const response = await fetch("https://vccfinal.online/login", {
+    method: "POST",
     headers: {
-      'Content-Type': 'application/json',
+      "Content-Type": "application/json",
     },
-    body: JSON.stringify({ name: teamName, password: password }),
+    body: JSON.stringify({ team_name: teamName, password: password }),
   });
 
-  const data = await response.json();
-  console.log(data);
-
-  // Check if the login is successful
-  if (data.message && data.message.includes('Login successful')) {
-    // Hide the login container and show the quiz container
-    document.getElementById('login-container').classList.add('hidden');
-    document.getElementById('quiz-container').classList.remove('hidden');
-    localStorage.setItem("currentTeam", teamName);
-    fetchQuestions();
-
-    // Show the navbar and update the team name display
-    document.querySelector('.navbar').classList.remove('hidden');
-    document.getElementById('team-name-display').textContent = `Team: ${teamName}`;
-  } else {
-    // Show an error message if the login failed
-    document.getElementById('login-error').innerText = 'Invalid team name or password';
-    document.getElementById('login-error').classList.remove('hidden');
+  const responseData = await response.json();
+  if (response.status === 401) {
+    console.log("Login failed");
+    return;
   }
+
+  // Store the access token
+  localStorage.setItem("access_token", responseData.access_token);
+  console.log("Login successful");
+
+    showQuizContainer();
 }
 
 
