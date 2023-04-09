@@ -1,15 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <script>
-    fetch('/baseurl.txt')
-      .then((response) => response.text())
-      .then((baseurl) => {
-        const base = document.createElement('base');
-        base.href = baseurl.trim();
-        document.head.appendChild(base);
-      });
-  </script>
+<script>
+  const setBaseURL = () => {
+    let baseurl;
+    if (window.location.hostname === "sanjin84.github.io") {
+      baseurl = "/WebQuiz";
+    } else {
+      baseurl = "";
+    }
+    const base = document.createElement("base");
+    base.href = baseurl + "/";
+    document.head.appendChild(base);
+  };
+  setBaseURL();
+</script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Computer Science Quiz</title>
