@@ -96,7 +96,7 @@ function showResult() {
   document.getElementById("result").classList.remove('hidden');
 
   setTimeout(() => {
-    window.location.href = "/pages/rankings.html";
+    window.location.href = "/rankings.html";
   }, 8000); // 5000ms (5 seconds) delay before redirecting
 }
 
@@ -139,7 +139,6 @@ async function login() {
 
     showQuizContainer();
 }
-
 
 
 // Fetch questions when the script is loaded
