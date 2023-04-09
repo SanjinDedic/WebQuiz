@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script>
+    const setBaseURL = () => {
+      let baseurl;
+      if (window.location.hostname === "sanjin84.github.io") {
+        baseurl = "/WebQuiz";
+      } else {
+        baseurl = "";
+      }
+      const base = document.createElement("base");
+      base.href = baseurl + "/";
+      document.head.appendChild(base);
+    };
+    setBaseURL();
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Questions</title>
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/builder.css">
+  <script src="js/builder.js" defer></script>
+</head>
+<body>
+  <nav class="navbar">
+    <a href="index.html">Reset</a>
+    <a href="pages/rankings.html">Rankings</a>
+    <a href="pages/about.html">About</a>
+    <a href="pages/template.html">Template</a>
+    <span id="team-name-display" class="team-name"></span>
+  </nav>
+  <div class="main-container">
+    <div class="container">
+      <h1 style="font-weight: bold;">Quiz Questions</h1>
+
+      <label for="filename" style="font-weight: bold;">File Name</label>
+      <input type="text" id="filename" style="width: 100%;">
+
+      <label for="type" style="font-weight: bold;">Type</label>
+      <select id="type" style="width: 100%;">
+        <option value="multiple_choice">Multiple Choice</option>
+        <option value="short_answer">Short Answer</option>
+      </select>
+
+      <label for="question" style="font-weight: bold;">Question</label>
+      <input type="text" id="question" style="width: 100%;">
+
+      <div id="options-container">
+        <label for="options" style="font-weight: bold;">Options (comma-separated)</label>
+        <input type="text" id="options" style="width: 100%;">
+      </div>
+
+      <label for="answer" style="font-weight: bold;">Answer</label>
+      <input type="text" id="answer" style="width: 100%;">
+
+      <label for="points" style="font-weight: bold;">Points</label>
+      <select id="points" style="width: 100%;">
+        <option value="10">10</option>
+        <option value="20">20</option>
+        <option value="30">30</option>
+      </select>
+
+      <label for="image_link" style="font-weight: bold;">Image Link</label>
+      <input type="text" id="image_link" style="width: 100%;">
+
+      <button id="add-question">Add Question</button>
+      <button id="download-json">Download JSON</button>
+
+      <textarea id="json-display" style="width: 100%; min-height: 200px;" readonly></textarea>
+    </div>
+  </div>
+</body>
+</html>

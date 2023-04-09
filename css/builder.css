@@ -1,0 +1,22 @@
+input {
+  font-size: 18px;
+  padding: 14px 12px; /* decreased vertical padding by 6px */
+  margin-bottom: 20px;
+}
+
+textarea {
+  padding: 12px;
+  min-height: 200px;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+container {
+  margin-top: 3rem;
+  padding-top: 100px;
+}
+
+.main-container {
+  margin-top: 5rem; /* increased margin to accommodate the navbar height */
+  padding-top: 100px;
+}
