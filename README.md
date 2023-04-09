@@ -1,7 +1,6 @@
 # WebQuiz
 This repository contains the source code for a simple quiz website built with HTML, CSS, and JavaScript. The quiz features multiple-choice and short-answer questions, as well as a team-based leaderboard.
 
-This repository contains the source code for a simple quiz website built with HTML, CSS, and JavaScript. The quiz features multiple-choice and short-answer questions, as well as a team-based leaderboard.
 
 ## Features
 
