@@ -29,8 +29,8 @@ p {
   margin-bottom: 10px;
 }
 
-img {
-  max-width: 100%;
+#question-image {
+  width: 512px;
   height: auto;
 }
 
@@ -83,27 +83,27 @@ body {
 }
 
 .login-container h1 {
-  font-size: 28px; /* increased font size */
+  font-size: 28px;
 }
 
 .login-container input[type="text"],
 .login-container input[type="password"] {
   width: 100%;
-  padding: 12px 20px; /* increased padding for input boxes */
+  padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
-  font-size: 18px; /* increased font size for input boxes */
+  font-size: 18px;
 }
 
 button {
   background-color: #4CAF50;
   color: white;
-  padding: 16px 32px; /* increased padding for the button */
-  margin: 16px 0; /* added margin around the button */
+  padding: 16px 32px;
+  margin: 16px 0;
   border: none;
   cursor: pointer;
   width: 100%;
-  font-size: 18px; /* increased font size for the button */
+  font-size: 18px;
   transition: 0.3s;
 }
 
@@ -115,7 +115,6 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
   padding-top: 30px;
-    
 }
 
 .navbar {
@@ -146,4 +145,9 @@ body {
 
 .main-container {
   margin-top: 3rem;
+}
+
+.question-container {
+  width: 512px;
+  margin: 0 auto;
 }

@@ -1,14 +1,29 @@
-// Initialize variables
 let questions = [];
 let currentQuestionIndex = 0;
 let score = 0;
+let maxScore = 0;
 
-// Fetch questions from the local JSON file
+function shuffleArray(array) {
+  let currentIndex = array.length, randomIndex;
+
+  while (currentIndex !== 0) {
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex--;
+
+    [array[currentIndex], array[randomIndex]] = [
+      array[randomIndex], array[currentIndex]];
+  }
+
+  return array;
+}
+
 function fetchQuestions() {
   return fetch('questions.json')
     .then((response) => response.json())
     .then((data) => {
-      questions = data;
+      const last50Questions = data.slice(0,20);
+      questions = shuffleArray(last50Questions).slice(0, 10);
+      maxScore = questions.reduce((total, question) => total + question.points, 0);
       displayQuestion();
       updateScoreDisplay();
     })
@@ -17,9 +32,7 @@ function fetchQuestions() {
     });
 }
 
-// Display the current question and its options or input field
 function displayQuestion() {
-  // If all questions are answered, show the result
   if (currentQuestionIndex >= questions.length) {
     showResult();
     return;
@@ -27,9 +40,8 @@ function displayQuestion() {
 
   const question = questions[currentQuestionIndex];
   document.getElementById("question").innerText = question.question;
-
-  // Show the question image if available
   const questionImage = document.getElementById("question-image");
+
   if (question.image_link) {
     questionImage.src = question.image_link;
     questionImage.style.display = "block";
@@ -37,7 +49,6 @@ function displayQuestion() {
     questionImage.style.display = "none";
   }
 
-  // Display multiple-choice options or short answer input based on question type
   if (question.type === 'multiple_choice') {
     document.getElementById("multiple_choice_options").classList.remove('hidden');
     document.getElementById("short_answer_input").classList.add('hidden');
@@ -52,10 +63,9 @@ function displayQuestion() {
   }
 }
 
-// Check the submitted answer and update the score
 async function submitAnswer() {
   const teamName = document.getElementById('team_name').value;
-  const id = (currentQuestionIndex+1).toString(10);
+  const id = questions[currentQuestionIndex].id.toString(10);
   let answer;
 
   if (questions[currentQuestionIndex].type === 'multiple_choice') {
@@ -80,7 +90,7 @@ async function submitAnswer() {
 
   if (responseData.message && responseData.message.includes("Correct")) {
     console.log("Answer is correct");
-    score++;
+    score += questions[currentQuestionIndex].points;
     updateScoreDisplay();
   } else {
     console.log("Answer is incorrect");
@@ -89,10 +99,9 @@ async function submitAnswer() {
   displayQuestion();
 }
 
-// Show the final result
 function showResult() {
   document.querySelector('.question-container').classList.add('hidden');
-  document.getElementById("result").innerText = `Your score: ${score}/${questions.length}`;
+  document.getElementById("result").innerText = `Your score: ${score}/${maxScore}`;
   document.getElementById("result").classList.remove('hidden');
 
   setTimeout(() => {
@@ -105,6 +114,7 @@ function showResult() {
     window.location.href = `${baseurl}/pages/rankings.html`;
   }, 8000); // 5000ms (5 seconds) delay before redirecting
 }
+
 
 // Update the displayed score
 function updateScoreDisplay() {
@@ -149,7 +159,3 @@ async function login() {
 
 // Fetch questions when the script is loaded
 fetchQuestions();
-
-
-
-

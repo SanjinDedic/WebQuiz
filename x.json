@@ -11,7 +11,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/1.png"
+        "image_link": "/images/1"
     },
     {
         "id": 2,
@@ -19,7 +19,7 @@
         "question": "What does CPU stand for?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/2.png"
+        "image_link": "/images/2"
     },
     {
         "id": 3,
@@ -33,7 +33,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/3.png"
+        "image_link": "/images/3"
     },
     {
         "id": 4,
@@ -41,7 +41,7 @@
         "question": "What was the name of the first electronic general-purpose computer?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/4.png"
+        "image_link": "/images/4"
     },
     {
         "id": 5,
@@ -55,7 +55,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/5.png"
+        "image_link": "/images/5"
     },
     {
         "id": 6,
@@ -63,7 +63,7 @@
         "question": "What does the acronym RAM stand for?",
         "answer": "UNKNOWN",
         "points": 50,
-        "image_link": "/images/6.png"
+        "image_link": "/images/6"
     },
     {
         "id": 7,
@@ -77,7 +77,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/7.png"
+        "image_link": "/images/7"
     },
     {
         "id": 8,
@@ -85,7 +85,7 @@
         "question": "What does the acronym URL stand for?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/8.png"
+        "image_link": "/images/8"
     },
     {
         "id": 9,
@@ -99,7 +99,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/9.png"
+        "image_link": "/images/9"
     },
     {
         "id": 10,
@@ -107,7 +107,7 @@
         "question": "What is the name of the scientist who invented the World Wide Web?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/10.png"
+        "image_link": "/images/10"
     },
     {
         "id": 11,
@@ -121,7 +121,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/11.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg"
     },
     {
         "id": 12,
@@ -129,7 +129,7 @@
         "question": "What is the name of the fifth planet from the Sun?",
         "answer": "UNKNOWN",
         "points": 50,
-        "image_link": "/images/12.png"
+        "image_link": ""
     },
     {
         "id": 13,
@@ -143,7 +143,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/13.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OSIRIS_Mars_true_color.jpg/1200px-OSIRIS_Mars_true_color.jpg"
     },
     {
         "id": 14,
@@ -151,7 +151,7 @@
         "question": "What is the smallest planet in our solar system?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/14.png"
+        "image_link": ""
     },
     {
         "id": 15,
@@ -165,7 +165,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/15.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Venus-real_color.jpg/1200px-Venus-real_color.jpg"
     },
     {
         "id": 16,
@@ -173,7 +173,7 @@
         "question": "What is the name of the largest moon of Saturn?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/16.png"
+        "image_link": ""
     },
     {
         "id": 17,
@@ -187,7 +187,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/17.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Venus-real_color.jpg/1200px-Venus-real_color.jpg"
     },
     {
         "id": 18,
@@ -195,7 +195,7 @@
         "question": "Which planet has the most moons in our solar system?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/18.png"
+        "image_link": ""
     },
     {
         "id": 19,
@@ -209,7 +209,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/19.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/1200px-FullMoon2010.jpg"
     },
     {
         "id": 20,
@@ -217,7 +217,7 @@
         "question": "What is the name of the second largest planet in our solar system?",
         "answer": "UNKNOWN",
         "points": 50,
-        "image_link": "/images/20.png"
+        "image_link": ""
     },
     {
         "id": 21,
@@ -231,7 +231,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/21.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg"
     },
     {
         "id": 22,
@@ -239,7 +239,7 @@
         "question": "What is the SI unit of force?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/22.png"
+        "image_link": ""
     },
     {
         "id": 23,
@@ -253,7 +253,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/23.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Atom_diagram.svg/1280px-Atom_diagram.svg.png"
     },
     {
         "id": 24,
@@ -261,7 +261,7 @@
         "question": "What is the speed of light in a vacuum?",
         "answer": "UNKNOWN",
         "points": 50,
-        "image_link": "/images/24.png"
+        "image_link": ""
     },
     {
         "id": 25,
@@ -275,7 +275,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/25.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Earth-moon.jpg/1280px-Earth-moon.jpg"
     },
     {
         "id": 26,
@@ -283,7 +283,7 @@
         "question": "What is the energy possessed by an object due to its motion called?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/26.png"
+        "image_link": ""
     },
     {
         "id": 27,
@@ -297,7 +297,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/27.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Thermodynamics_icon.svg/1200px-Thermodynamics_icon.svg.png"
     },
     {
         "id": 28,
@@ -305,7 +305,7 @@
         "question": "What is the name of the device used to measure electric current?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/28.png"
+        "image_link": ""
     },
     {
         "id": 29,
@@ -319,7 +319,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/29.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Werner_Heisenberg_1933.jpg/1280px-Werner_Heisenberg_1933.jpg"
     },
     {
         "id": 30,
@@ -327,7 +327,7 @@
         "question": "What is the unit of measurement for electric resistance?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/30.png"
+        "image_link": ""
     },
     {
         "id": 31,
@@ -341,7 +341,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/31.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Yuri_Gagarin_in_Sweden.jpg/800px-Yuri_Gagarin_in_Sweden.jpg"
     },
     {
         "id": 32,
@@ -349,7 +349,7 @@
         "question": "What was the name of the first artificial Earth satellite?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/32.png"
+        "image_link": ""
     },
     {
         "id": 33,
@@ -363,7 +363,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/33.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Voyager_1_entering_heliosheath.jpg/1280px-Voyager_1_entering_heliosheath.jpg"
     },
     {
         "id": 34,
@@ -371,7 +371,7 @@
         "question": "What is the name of the first human-made object to leave the solar system?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/34.png"
+        "image_link": ""
     },
     {
         "id": 35,
@@ -385,7 +385,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/35.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tereshkova-1969.jpg/800px-Tereshkova-1969.jpg"
     },
     {
         "id": 36,
@@ -393,7 +393,7 @@
         "question": "What was the name of the first successful Mars rover?",
         "answer": "UNKNOWN",
         "points": 50,
-        "image_link": "/images/36.png"
+        "image_link": ""
     },
     {
         "id": 37,
@@ -407,7 +407,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/37.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apollo_11_first_step.jpg/1280px-Apollo_11_first_step.jpg"
     },
     {
         "id": 38,
@@ -415,7 +415,7 @@
         "question": "What is the name of the telescope launched by NASA in 1990 that has made numerous important discoveries?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/38.png"
+        "image_link": ""
     },
     {
         "id": 39,
@@ -429,7 +429,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/39.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mars_Pathfinder_and_Sojourner.jpg/1280px-Mars_Pathfinder_and_Sojourner.jpg"
     },
     {
         "id": 40,
@@ -437,7 +437,7 @@
         "question": "What is the name of the reusable spaceplane developed by SpaceX?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/40.png"
+        "image_link": ""
     },
     {
         "id": 41,
@@ -451,7 +451,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/41.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Antonie_van_Leeuwenhoek_%281632-1723%29.Restored.jpg/800px-Antonie_van_Leeuwenhoek%281632-1723%29._Restored.jpg"
     },
     {
         "id": 42,
@@ -459,7 +459,7 @@
         "question": "What is the term used to describe bacteria with a spherical shape?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/42.png"
+        "image_link": ""
     },
     {
         "id": 43,
@@ -473,7 +473,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/43.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Paramecium_schematic.svg/1280px-Paramecium_schematic.svg.png"
     },
     {
         "id": 44,
@@ -481,7 +481,7 @@
         "question": "What is the process by which bacteria divide and reproduce?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/44.png"
+        "image_link": ""
     },
     {
         "id": 45,
@@ -495,7 +495,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/45.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Plasmodium_falciparum_01.png/1280px-Plasmodium_falciparum_01.png"
     },
     {
         "id": 46,
@@ -503,7 +503,7 @@
         "question": "What are the protein molecules produced by the immune system to recognize and neutralize harmful substances?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/46.png"
+        "image_link": ""
     },
     {
         "id": 47,
@@ -517,7 +517,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/47.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Gram_stain_types.svg/1280px-Gram_stain_types.svg.png"
     },
     {
         "id": 48,
@@ -525,7 +525,7 @@
         "question": "Which technique is used to visualize bacteria by staining them based on the properties of their cell walls?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/48.png"
+        "image_link": ""
     },
     {
         "id": 49,
@@ -539,7 +539,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/49.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Nodules.JPG/1280px-Nodules.JPG"
     },
     {
         "id": 50,
@@ -547,7 +547,7 @@
         "question": "What is the name of the structure that some bacteria use for locomotion?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/50.png"
+        "image_link": ""
     },
     {
         "id": 51,
@@ -561,7 +561,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/51.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Socrates_Louvre.jpg/800px-Socrates_Louvre.jpg"
     },
     {
         "id": 52,
@@ -569,7 +569,7 @@
         "question": "What is the name of Plato's most famous work?",
         "answer": "UNKNOWN",
         "points": 50,
-        "image_link": "/images/52.png"
+        "image_link": ""
     },
     {
         "id": 53,
@@ -583,7 +583,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/53.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Plato_Silanion_Musei_Capitolini_MC1377.jpg/800px-Plato_Silanion_Musei_Capitolini_MC1377.jpg"
     },
     {
         "id": 54,
@@ -591,7 +591,7 @@
         "question": "What is the name of the ancient Greek school of thought founded by Epicurus?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/54.png"
+        "image_link": ""
     },
     {
         "id": 55,
@@ -605,7 +605,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/55.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zeno_of_Elea_by_Bruno.jpg/800px-Zeno_of_Elea_by_Bruno.jpg"
     },
     {
         "id": 56,
@@ -613,7 +613,7 @@
         "question": "Which philosopher is known for his doctrine that reality is constantly changing and that everything is in a state of flux?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/56.png"
+        "image_link": ""
     },
     {
         "id": 57,
@@ -627,7 +627,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/57.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Euklid-von-Alexandria_1.jpg/800px-Euklid-von-Alexandria_1.jpg"
     },
     {
         "id": 58,
@@ -635,7 +635,7 @@
         "question": "What is the name of the ancient Greek philosopher who formulated the atomic theory of the universe?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/58.png"
+        "image_link": ""
     },
     {
         "id": 59,
@@ -649,7 +649,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/59.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/800px-Aristotle_Altemps_Inv8575.jpg"
     },
     {
         "id": 60,
@@ -657,7 +657,7 @@
         "question": "What was the name of the philosophical school founded by Plato in Athens?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/60.png"
+        "image_link": ""
     },
     {
         "id": 61,
@@ -671,7 +671,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/61.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/George_Orwell_press_photo.jpg/800px-George_Orwell_press_photo.jpg"
     },
     {
         "id": 62,
@@ -679,7 +679,7 @@
         "question": "What is the title of the dystopian novel written by Aldous Huxley?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/62.png"
+        "image_link": ""
     },
     {
         "id": 63,
@@ -693,7 +693,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/63.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg"
     },
     {
         "id": 64,
@@ -701,7 +701,7 @@
         "question": "Who is the author of the science fiction novel 'Fahrenheit 451'?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/64.png"
+        "image_link": ""
     },
     {
         "id": 65,
@@ -715,7 +715,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/65.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/en/c/c3/Alien_movie_poster.jpg"
     },
     {
         "id": 66,
@@ -723,7 +723,7 @@
         "question": "What is the name of the protagonist in the movie 'The Terminator' played by Arnold Schwarzenegger?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/66.png"
+        "image_link": ""
     },
     {
         "id": 67,
@@ -737,7 +737,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/67.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Dune_Book_Cover.jpg/800px-Dune_Book_Cover.jpg"
     },
     {
         "id": 68,
@@ -745,7 +745,7 @@
         "question": "Who directed the 1982 science fiction film 'Blade Runner'?",
         "answer": "UNKNOWN",
         "points": 50,
-        "image_link": "/images/68.png"
+        "image_link": ""
     },
     {
         "id": 69,
@@ -759,7 +759,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/69.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Isaak_Asimov_on_Throne.png/800px-Isaak_Asimov_on_Throne.png"
     },
     {
         "id": 70,
@@ -767,7 +767,7 @@
         "question": "What is the name of the artificial intelligence computer system in the movie '2001: A Space Odyssey'?",
         "answer": "UNKNOWN",
         "points": 50,
-        "image_link": "/images/70.png"
+        "image_link": ""
     },
     {
         "id": 71,
@@ -781,7 +781,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/71.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg"
     },
     {
         "id": 72,
@@ -789,7 +789,7 @@
         "question": "Who is the author of the 1969 science fiction novel 'Slaughterhouse-Five'?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/72.png"
+        "image_link": ""
     },
     {
         "id": 73,
@@ -803,7 +803,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/73.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/en/d/df/Arrival%2C_Movie_Poster.jpg"
     },
     {
         "id": 74,
@@ -811,7 +811,7 @@
         "question": "Who is the director of the 2013 science fiction film 'Gravity'?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/74.png"
+        "image_link": ""
     },
     {
         "id": 75,
@@ -825,7 +825,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/75.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Space_Odyssey_novel_cover.jpg/800px-Space_Odyssey_novel_cover.jpg"
     },
     {
         "id": 76,
@@ -833,7 +833,7 @@
         "question": "What is the name of the author who wrote the 'Ender's Game' series?",
         "answer": "UNKNOWN",
         "points": 50,
-        "image_link": "/images/76.png"
+        "image_link": ""
     },
     {
         "id": 77,
@@ -847,7 +847,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/77.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/en/b/bb/Gataca_movie_poster_B.jpg"
     },
     {
         "id": 78,
@@ -855,7 +855,7 @@
         "question": "What is the title of the 1984 science fiction novel by William Gibson, which coined the term 'cyberspace'?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/78.png"
+        "image_link": ""
     },
     {
         "id": 79,
@@ -869,7 +869,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/79.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg"
     },
     {
         "id": 80,
@@ -877,7 +877,7 @@
         "question": "What is the name of the 1960 science fiction novel by Walter M. Miller Jr., set in a post-apocalyptic world?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/80.png"
+        "image_link": ""
     },
     {
         "id": 81,
@@ -891,7 +891,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/81.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Watson-Crick-1KX5_on_3dna_27.pdb.png"
     },
     {
         "id": 82,
@@ -899,7 +899,7 @@
         "question": "What is the name of the scientist who discovered penicillin?",
         "answer": "UNKNOWN",
         "points": 50,
-        "image_link": "/images/82.png"
+        "image_link": ""
     },
     {
         "id": 83,
@@ -913,7 +913,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/83.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GodfreyKneller-IsaacNewton-1689.jpg/800px-GodfreyKneller-IsaacNewton-1689.jpg"
     },
     {
         "id": 84,
@@ -921,7 +921,7 @@
         "question": "What is the name of the physicist who first theorized the existence of black holes?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/84.png"
+        "image_link": ""
     },
     {
         "id": 85,
@@ -935,7 +935,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/85.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Marie_Curie_1920.jpg/800px-Marie_Curie_1920.jpg"
     },
     {
         "id": 86,
@@ -943,7 +943,7 @@
         "question": "What is the name of the vaccine that was developed by Jonas Salk in the 1950s to combat polio?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/86.png"
+        "image_link": ""
     },
     {
         "id": 87,
@@ -957,7 +957,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/87.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/J.J_Thomson.jpg/800px-J.J_Thomson.jpg"
     },
     {
         "id": 88,
@@ -965,7 +965,7 @@
         "question": "What is the name of the process by which plants convert sunlight into energy?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/88.png"
+        "image_link": ""
     },
     {
         "id": 89,
@@ -979,7 +979,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/89.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/800px-Charles_Darwin_seated_crop.jpg"
     },
     {
         "id": 90,
@@ -987,7 +987,7 @@
         "question": "What is the name of the 17th-century astronomer who discovered the four largest moons of Jupiter?",
         "answer": "UNKNOWN",
         "points": 50,
-        "image_link": "/images/90.png"
+        "image_link": ""
     },
     {
         "id": 91,
@@ -1001,7 +1001,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/91.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/d/d4/N.Tesla.JPG"
     },
     {
         "id": 92,
@@ -1009,7 +1009,7 @@
         "question": "In what year was Nikola Tesla born?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/92.png"
+        "image_link": ""
     },
     {
         "id": 93,
@@ -1023,7 +1023,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/93.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Tesla_colorado_adjusted.jpg"
     },
     {
         "id": 94,
@@ -1031,7 +1031,7 @@
         "question": "What is the name of the famous laboratory where Tesla conducted many of his experiments?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/94.png"
+        "image_link": ""
     },
     {
         "id": 95,
@@ -1045,7 +1045,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/95.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Thomas_Edison2.jpg/800px-Thomas_Edison2.jpg"
     },
     {
         "id": 96,
@@ -1053,7 +1053,7 @@
         "question": "What is the name of the unit of magnetic flux density named after Tesla?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/96.png"
+        "image_link": ""
     },
     {
         "id": 97,
@@ -1067,7 +1067,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/97.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wardenclyffe_Tower.jpg/800px-Wardenclyffe_Tower.jpg"
     },
     {
         "id": 98,
@@ -1075,7 +1075,7 @@
         "question": "In what city did Tesla spend most of his adult life and career?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/98.png"
+        "image_link": ""
     },
     {
         "id": 99,
@@ -1089,7 +1089,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/99.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tesla_coil_3.svg/800px-Tesla_coil_3.svg.png"
     },
     {
         "id": 100,
@@ -1097,7 +1097,7 @@
         "question": "What is the name of the falls where Tesla's alternating current system was first used to generate electricity on a large scale?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/100.png"
+        "image_link": ""
     },
     {
         "id": 101,
@@ -1111,7 +1111,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/101.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Earthquake.jpg"
     },
     {
         "id": 102,
@@ -1119,7 +1119,7 @@
         "question": "What programming language is named after a British comedy group?",
         "answer": "UNKNOWN",
         "points": 50,
-        "image_link": "/images/102.png"
+        "image_link": ""
     },
     {
         "id": 103,
@@ -1133,7 +1133,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/103.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/8/8a/H96566k.jpg"
     },
     {
         "id": 104,
@@ -1141,7 +1141,7 @@
         "question": "What is the name of the unit of frequency named after a Danish scientist who was famous for his pranks?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/104.png"
+        "image_link": ""
     },
     {
         "id": 105,
@@ -1155,7 +1155,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/105.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Cow_dung_cakes_%28Gumla%2C_India%29.jpg/800px-Cow_dung_cakes_%28Gumla%2C_India%29.jpg"
     },
     {
         "id": 106,
@@ -1163,7 +1163,7 @@
         "question": "What is the name of the phenomenon where people perceive patterns or connections in random or meaningless data?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/106.png"
+        "image_link": ""
     },
     {
         "id": 107,
@@ -1177,7 +1177,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/107.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Java_Logo.svg/1200px-Java_Logo.svg.png"
     },
     {
         "id": 108,
@@ -1185,7 +1185,7 @@
         "question": "What is the name of the Internet's unofficial mascot, a creature with the body of a cat and the face of a human?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/108.png"
+        "image_link": ""
     },
     {
         "id": 117,
@@ -1199,7 +1199,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/117.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/6/60/Egyptian_wig_MET_LC-32_1_181_EGDP010083.jpg"
     },
     {
         "id": 118,
@@ -1207,7 +1207,7 @@
         "question": "Which famous philosopher is known for dying by laughing at his own joke?",
         "answer": "UNKNOWN",
         "points": 50,
-        "image_link": "/images/118.png"
+        "image_link": ""
     },
     {
         "id": 119,
@@ -1221,7 +1221,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/119.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/6/64/John_Quincy_Adams.jpeg"
     },
     {
         "id": 120,
@@ -1229,7 +1229,7 @@
         "question": "What was the name of the ancient Greek philosopher who lived in a barrel?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/120.png"
+        "image_link": ""
     },
     {
         "id": 121,
@@ -1243,7 +1243,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/121.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/8/83/Alexandre_Herculano_%28cropped%29.jpg"
     },
     {
         "id": 122,
@@ -1251,7 +1251,7 @@
         "question": "What unusual method did the philosopher Immanuel Kant use to keep his thoughts organized?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/122.png"
+        "image_link": ""
     },
     {
         "id": 123,
@@ -1265,7 +1265,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/123.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/1/14/Julius_Caesar_%28Rome%29.jpg"
     },
     {
         "id": 124,
@@ -1273,7 +1273,7 @@
         "question": "Which ancient Greek philosopher is said to have died by holding his breath in a fit of anger?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/124.png"
+        "image_link": ""
     },
     {
         "id": 125,
@@ -1287,7 +1287,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/125.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/1/10/Caligula_MA_1249.jpg"
     },
     {
         "id": 126,
@@ -1295,7 +1295,7 @@
         "question": "What did the philosopher S\u00c3\u00b8ren Kierkegaard nickname his walking cane?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/126.png"
+        "image_link": ""
     },
     {
         "id": 127,
@@ -1309,7 +1309,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/127.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/8/85/Pankration_Fighter_Sculpture_%28cropped%29.jpg"
     },
     {
         "id": 128,
@@ -1317,7 +1317,7 @@
         "question": "Which philosopher's last words were reportedly a request for a glass of wine?",
         "answer": "UNKNOWN",
         "points": 50,
-        "image_link": "/images/128.png"
+        "image_link": ""
     },
     {
         "id": 129,
@@ -1331,7 +1331,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/129.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/8/89/Socrates_Louvre.jpg"
     },
     {
         "id": 130,
@@ -1339,7 +1339,7 @@
         "question": "What unusual method did the philosopher John Locke recommend for remembering dreams?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/130.png"
+        "image_link": ""
     },
     {
         "id": 131,
@@ -1353,7 +1353,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/131.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/2/2b/1924_Passport_photo_of_Madame_Curie.jpg"
     },
     {
         "id": 132,
@@ -1361,7 +1361,7 @@
         "question": "Which philosopher had a pet bear while attending university?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/132.png"
+        "image_link": ""
     },
     {
         "id": 133,
@@ -1375,7 +1375,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/133.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Leet.png"
     },
     {
         "id": 134,
@@ -1383,7 +1383,7 @@
         "question": "What is the name of the widely known hacker group that uses a Guy Fawkes mask as its symbol?",
         "answer": "UNKNOWN",
         "points": 50,
-        "image_link": "/images/134.png"
+        "image_link": ""
     },
     {
         "id": 135,
@@ -1397,7 +1397,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/135.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Jurassic_Park_Tyrannosaurus_Logo.svg"
     },
     {
         "id": 136,
@@ -1405,21 +1405,21 @@
         "question": "What is the name of the iconic screensaver associated with the '90s hacker culture?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/136.png"
+        "image_link": ""
     },
     {
         "id": 137,
         "type": "multiple_choice",
         "question": "What is the name of the programming language designed as a joke, where the code looks like a Shakespearean play?",
         "options": [
-            "Brainf#*k",
+            "Brainfuck",
             "Piet",
             "Shakespeare",
             "Whitespace"
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/137.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Shakespeare.jpg"
     },
     {
         "id": 138,
@@ -1427,7 +1427,7 @@
         "question": "Which popular hacking tool is named after a dessert?",
         "answer": "UNKNOWN",
         "points": 30,
-        "image_link": "/images/138.png"
+        "image_link": ""
     },
     {
         "id": 139,
@@ -1441,7 +1441,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/139.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/The_Matrix_film_poster.jpeg/480px-The_Matrix_film_poster.jpeg"
     },
     {
         "id": 140,
@@ -1449,7 +1449,7 @@
         "question": "What is the name of the open-source hackable robot toy that can be programmed to perform various tasks?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/140.png"
+        "image_link": ""
     },
     {
         "id": 141,
@@ -1463,7 +1463,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/141.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/8/82/Nmap_logo.svg"
     },
     {
         "id": 142,
@@ -1471,7 +1471,7 @@
         "question": "Which meme features a person wearing sunglasses and the caption 'I'm in'?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/142.png"
+        "image_link": ""
     },
     {
         "id": 143,
@@ -1485,7 +1485,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/143.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"
     },
     {
         "id": 144,
@@ -1493,21 +1493,21 @@
         "question": "What is the term for a person who hacks as a hobby or for fun, without malicious intent?",
         "answer": "UNKNOWN",
         "points": 50,
-        "image_link": "/images/144.png"
+        "image_link": ""
     },
     {
         "id": 145,
         "type": "multiple_choice",
         "question": "Which of these programming languages was designed as a joke, using only eight commands?",
         "options": [
-            "Brainf%%k",
+            "Brainfuck",
             "Piet",
             "Shakespeare",
             "Whitespace"
         ],
         "answer": "UNKNOWN",
         "points": 10,
-        "image_link": "/images/145.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/8/87/Brainfuck.png"
     },
     {
         "id": 146,
@@ -1515,7 +1515,7 @@
         "question": "Which text editor, popular among programmers, is humorously referred to as the final boss for a programmer?",
         "answer": "UNKNOWN",
         "points": 40,
-        "image_link": "/images/146.png"
+        "image_link": ""
     },
     {
         "id": 147,
@@ -1529,7 +1529,7 @@
         ],
         "answer": "UNKNOWN",
         "points": 20,
-        "image_link": "/images/147.png"
+        "image_link": "https://upload.wikimedia.org/wikipedia/en/4/4c/WarGames_movie_poster.jpg"
     },
     {
         "id": 148,
@@ -1537,6 +1537,6 @@
         "question": "What popular command is used in memes to imply an attempt to hack or gain unauthorized access to a system?",
         "answer": "UNKNOWN",
         "points": 50,
-        "image_link": "/images/148.png"
+        "image_link": ""
     }
 ]

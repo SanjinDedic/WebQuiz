@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script>
+  const setBaseURL = () => {
+    let baseurl;
+    if (window.location.hostname === "sanjin84.github.io") {
+      baseurl = "/WebQuiz";
+    } else {
+      baseurl = "";
+    }
+    const base = document.createElement("base");
+    base.href = baseurl + "/";
+    document.head.appendChild(base);
+  };
+
+  const generateQuestions = async () => {
+    const topic = document.getElementById("topic-input").value;
+    const template = document.getElementById("template-input").value;
+    const numQuestions = document.getElementById("num-questions").value;
+
+    const jsonData = {
+      topic: topic,
+      template: template,
+      numQuestions: numQuestions
+    };
+
+    try {
+      const response = await fetch('/api/generate-questions', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(jsonData)
+      });
+
+      const result = await response.json();
+      document.getElementById("result-json").value = JSON.stringify(result, null, 2);
+
+    } catch (error) {
+      console.error('Error:', error);
+    }
+  };
+
+  setBaseURL();
+</script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Custom Page Generator</title>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+  <nav class="navbar">
+    <a href="index.html">Reset</a>
+    <a href="pages/rankings.html">Rankings</a>
+    <a href="pages/about.html">About</a>
+    <a href="pages/builder.html">Builder</a>
+    <span id="team-name-display" class="team-name"></span>
+  </nav>
+  <div class="main-container">
+    <div class="container">
+      <h1>Custom Page Generator</h1>
+      <label for="topic-input">Topic:</label>
+      <input type="text" id="topic-input" name="topic" placeholder="Enter topic">
+      <br>
+      <label for="template-input">Template:</label>
+      <textarea id="template-input" name="template" rows="20" cols="50"></textarea>
+      <br>
+      <label for="num-questions">Number of Questions:</label>
+      <select id="num-questions">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="9">9</option>
+        <option value="10">10</option>
+        <option value="11">11</option>
+        <option value="12">12</option>
+        <option value="13">13</option>
+        <option value="14">14</option>
+        <option value="15">15</option>
+        <option value="16">16</option>
+        <option value="17">17</option>
+        <option value="18">18</option>
+        <option value="19">19</option>
+        <option value="20">20</option>
+        <!-- rest of the options -->
+      </select>
+      <br>
+      <button onclick="generateQuestions()">Generate JSON</button>
+      <br>
+      <label for="result-json">Generated Questions:</label>
+      <textarea id="result-json" rows="20" cols="50" readonly></textarea>
+    </div>
+  </div>
+</body>
+</html>

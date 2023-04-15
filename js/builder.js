@@ -44,6 +44,36 @@ document.getElementById("download-json").addEventListener("click", () => {
   URL.revokeObjectURL(url);
 });
 
+document.getElementById("save-json-to-cloud").addEventListener("click", saveJsonToCloud);
+
+async function saveJsonToCloud() {
+  const filename = document.getElementById("filename").value || "questions";
+  const json = JSON.stringify(questions, null, 2);
+
+  try {
+    const response = await fetch("https://vccfinal.online/save_json", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        quiz_data: JSON.parse(json), // <-- Parse the JSON string before sending it
+        filename: filename,
+      }),
+    });
+
+    if (response.ok) {
+      const data = await response.json();
+      alert(data.message);
+    } else {
+      const error = await response.json();
+      alert(`Error: ${error.detail[0].msg}`);
+    }
+  } catch (error) {
+    alert(`Error: ${error.message}`);
+  }
+}
+
 function updateJsonDisplay() {
   const jsonDisplay = document.getElementById("json-display");
   const json = JSON.stringify(questions, null, 2);
