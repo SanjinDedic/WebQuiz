@@ -39,8 +39,11 @@ input[type="radio"] {
 }
 
 input[type="text"] {
-  margin-bottom: 10px;
+  width: 506px; /* Updated width */
+  font-size: 28px; /* Updated font-size */
+  margin-top: 10px;
 }
+
 
 button[type="submit"] {
   background-color: #007BFF;

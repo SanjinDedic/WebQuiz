@@ -33,9 +33,9 @@ function updateTable(jsonResponse) {
 }
 
 // Function to fetch data from the API and update the table
-async function fetchDataAndUpdateTable() {
+async function fetchDataAndUpdateTable(tableName = "teams") {
   try {
-    const apiUrl = "https://vccfinal.online/get_teams_table";
+    const apiUrl = `https://vccfinal.online/get_teams_table?table_name=${tableName}`;
     const response = await fetch(apiUrl, {
       method: "GET",
       headers: {

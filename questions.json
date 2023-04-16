@@ -10,7 +10,7 @@
             "Ada Lovelace"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 30,
         "image_link": "images/1.png"
     },
     {
@@ -32,7 +32,7 @@
             "Pac-Man"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 20,
         "image_link": "images/3.png"
     },
     {
@@ -40,7 +40,7 @@
         "type": "short_answer",
         "question": "What was the name of the first electronic general-purpose computer?",
         "answer": "UNKNOWN",
-        "points": 40,
+        "points": 50,
         "image_link": "images/4.png"
     },
     {
@@ -76,7 +76,7 @@
             "Hewlett-Packard"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 30,
         "image_link": "images/7.png"
     },
     {
@@ -98,7 +98,7 @@
             "WorldWideWeb"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 30,
         "image_link": "images/9.png"
     },
     {
@@ -120,7 +120,7 @@
             "Mars"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 30,
         "image_link": "images/11.png"
     },
     {
@@ -128,7 +128,7 @@
         "type": "short_answer",
         "question": "What is the name of the fifth planet from the Sun?",
         "answer": "UNKNOWN",
-        "points": 50,
+        "points": 30,
         "image_link": "images/12.png"
     },
     {
@@ -142,7 +142,7 @@
             "Mercury"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 30,
         "image_link": "images/13.png"
     },
     {
@@ -150,7 +150,7 @@
         "type": "short_answer",
         "question": "What is the smallest planet in our solar system?",
         "answer": "UNKNOWN",
-        "points": 40,
+        "points": 50,
         "image_link": "images/14.png"
     },
     {
@@ -186,7 +186,7 @@
             "Saturn"
         ],
         "answer": "UNKNOWN",
-        "points": 20,
+        "points": 30,
         "image_link": "images/17.png"
     },
     {
@@ -194,7 +194,7 @@
         "type": "short_answer",
         "question": "Which planet has the most moons in our solar system?",
         "answer": "UNKNOWN",
-        "points": 40,
+        "points": 30,
         "image_link": "images/18.png"
     },
     {
@@ -208,7 +208,7 @@
             "Ganymede"
         ],
         "answer": "UNKNOWN",
-        "points": 20,
+        "points": 30,
         "image_link": "images/19.png"
     },
     {
@@ -230,7 +230,7 @@
             "James Clerk Maxwell"
         ],
         "answer": "UNKNOWN",
-        "points": 20,
+        "points": 10,
         "image_link": "images/21.png"
     },
     {
@@ -238,7 +238,7 @@
         "type": "short_answer",
         "question": "What is the SI unit of force?",
         "answer": "UNKNOWN",
-        "points": 40,
+        "points": 50,
         "image_link": "images/22.png"
     },
     {
@@ -252,7 +252,7 @@
             "Protons, neutrons, and electrons"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 20,
         "image_link": "images/23.png"
     },
     {
@@ -260,7 +260,7 @@
         "type": "short_answer",
         "question": "What is the speed of light in a vacuum?",
         "answer": "UNKNOWN",
-        "points": 50,
+        "points": 40,
         "image_link": "images/24.png"
     },
     {
@@ -274,7 +274,7 @@
             "Centripetal force"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 30,
         "image_link": "images/25.png"
     },
     {
@@ -282,7 +282,7 @@
         "type": "short_answer",
         "question": "What is the energy possessed by an object due to its motion called?",
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 40,
         "image_link": "images/26.png"
     },
     {
@@ -296,7 +296,7 @@
             "Relativity"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 30,
         "image_link": "images/27.png"
     },
     {
@@ -304,7 +304,7 @@
         "type": "short_answer",
         "question": "What is the name of the device used to measure electric current?",
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 50,
         "image_link": "images/28.png"
     },
     {
@@ -318,7 +318,7 @@
             "Erwin Schr\u00c3\u00b6dinger"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 30,
         "image_link": "images/29.png"
     },
     {
@@ -326,7 +326,7 @@
         "type": "short_answer",
         "question": "What is the unit of measurement for electric resistance?",
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 40,
         "image_link": "images/30.png"
     },
     {
@@ -348,7 +348,7 @@
         "type": "short_answer",
         "question": "What was the name of the first artificial Earth satellite?",
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 40,
         "image_link": "images/32.png"
     },
     {
@@ -362,7 +362,7 @@
             "Pioneer 11"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 30,
         "image_link": "images/33.png"
     },
     {
@@ -370,7 +370,7 @@
         "type": "short_answer",
         "question": "What is the name of the first human-made object to leave the solar system?",
         "answer": "UNKNOWN",
-        "points": 40,
+        "points": 30,
         "image_link": "images/34.png"
     },
     {
@@ -392,7 +392,7 @@
         "type": "short_answer",
         "question": "What was the name of the first successful Mars rover?",
         "answer": "UNKNOWN",
-        "points": 50,
+        "points": 40,
         "image_link": "images/36.png"
     },
     {
@@ -414,7 +414,7 @@
         "type": "short_answer",
         "question": "What is the name of the telescope launched by NASA in 1990 that has made numerous important discoveries?",
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 50,
         "image_link": "images/38.png"
     },
     {
@@ -436,7 +436,7 @@
         "type": "short_answer",
         "question": "What is the name of the reusable spaceplane developed by SpaceX?",
         "answer": "UNKNOWN",
-        "points": 40,
+        "points": 30,
         "image_link": "images/40.png"
     },
     {
@@ -450,7 +450,7 @@
             "Alexander Fleming"
         ],
         "answer": "UNKNOWN",
-        "points": 20,
+        "points": 10,
         "image_link": "images/41.png"
     },
     {
@@ -458,7 +458,7 @@
         "type": "short_answer",
         "question": "What is the term used to describe bacteria with a spherical shape?",
         "answer": "UNKNOWN",
-        "points": 40,
+        "points": 50,
         "image_link": "images/42.png"
     },
     {
@@ -502,7 +502,7 @@
         "type": "short_answer",
         "question": "What are the protein molecules produced by the immune system to recognize and neutralize harmful substances?",
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 50,
         "image_link": "images/46.png"
     },
     {
@@ -516,7 +516,7 @@
             "No cell membrane"
         ],
         "answer": "UNKNOWN",
-        "points": 20,
+        "points": 10,
         "image_link": "images/47.png"
     },
     {
@@ -524,7 +524,7 @@
         "type": "short_answer",
         "question": "Which technique is used to visualize bacteria by staining them based on the properties of their cell walls?",
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 40,
         "image_link": "images/48.png"
     },
     {
@@ -546,7 +546,7 @@
         "type": "short_answer",
         "question": "What is the name of the structure that some bacteria use for locomotion?",
         "answer": "UNKNOWN",
-        "points": 40,
+        "points": 50,
         "image_link": "images/50.png"
     },
     {
@@ -560,7 +560,7 @@
             "Pythagoras"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 30,
         "image_link": "images/51.png"
     },
     {
@@ -568,7 +568,7 @@
         "type": "short_answer",
         "question": "What is the name of Plato's most famous work?",
         "answer": "UNKNOWN",
-        "points": 50,
+        "points": 40,
         "image_link": "images/52.png"
     },
     {
@@ -612,7 +612,7 @@
         "type": "short_answer",
         "question": "Which philosopher is known for his doctrine that reality is constantly changing and that everything is in a state of flux?",
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 40,
         "image_link": "images/56.png"
     },
     {
@@ -626,7 +626,7 @@
             "Thales"
         ],
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 20,
         "image_link": "images/57.png"
     },
     {
@@ -634,7 +634,7 @@
         "type": "short_answer",
         "question": "What is the name of the ancient Greek philosopher who formulated the atomic theory of the universe?",
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 40,
         "image_link": "images/58.png"
     },
     {
@@ -648,7 +648,7 @@
             "Socrates"
         ],
         "answer": "UNKNOWN",
-        "points": 20,
+        "points": 10,
         "image_link": "images/59.png"
     },
     {
@@ -670,7 +670,7 @@
             "Philip K. Dick"
         ],
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 10,
         "image_link": "images/61.png"
     },
     {
@@ -692,7 +692,7 @@
             "Avatar"
         ],
         "answer": "UNKNOWN",
-        "points": 20,
+        "points": 10,
         "image_link": "images/63.png"
     },
     {
@@ -714,7 +714,7 @@
             "The Terminator"
         ],
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 20,
         "image_link": "images/65.png"
     },
     {
@@ -736,7 +736,7 @@
             "The Left Hand of Darkness"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 30,
         "image_link": "images/67.png"
     },
     {
@@ -744,7 +744,7 @@
         "type": "short_answer",
         "question": "Who directed the 1982 science fiction film 'Blade Runner'?",
         "answer": "UNKNOWN",
-        "points": 50,
+        "points": 40,
         "image_link": "images/68.png"
     },
     {
@@ -758,7 +758,7 @@
             "Ursula K. Le Guin"
         ],
         "answer": "UNKNOWN",
-        "points": 20,
+        "points": 10,
         "image_link": "images/69.png"
     },
     {
@@ -766,7 +766,7 @@
         "type": "short_answer",
         "question": "What is the name of the artificial intelligence computer system in the movie '2001: A Space Odyssey'?",
         "answer": "UNKNOWN",
-        "points": 50,
+        "points": 30,
         "image_link": "images/70.png"
     },
     {
@@ -780,7 +780,7 @@
             "Arrival"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 30,
         "image_link": "images/71.png"
     },
     {
@@ -788,7 +788,7 @@
         "type": "short_answer",
         "question": "Who is the author of the 1969 science fiction novel 'Slaughterhouse-Five'?",
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 40,
         "image_link": "images/72.png"
     },
     {
@@ -802,7 +802,7 @@
             "The Martian"
         ],
         "answer": "UNKNOWN",
-        "points": 20,
+        "points": 30,
         "image_link": "images/73.png"
     },
     {
@@ -876,7 +876,7 @@
         "type": "short_answer",
         "question": "What is the name of the 1960 science fiction novel by Walter M. Miller Jr., set in a post-apocalyptic world?",
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 50,
         "image_link": "images/80.png"
     },
     {
@@ -890,7 +890,7 @@
             "James Watson and Francis Crick"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 20,
         "image_link": "images/81.png"
     },
     {
@@ -898,7 +898,7 @@
         "type": "short_answer",
         "question": "What is the name of the scientist who discovered penicillin?",
         "answer": "UNKNOWN",
-        "points": 50,
+        "points": 40,
         "image_link": "images/82.png"
     },
     {
@@ -912,7 +912,7 @@
             "Nikola Tesla"
         ],
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 10,
         "image_link": "images/83.png"
     },
     {
@@ -920,7 +920,7 @@
         "type": "short_answer",
         "question": "What is the name of the physicist who first theorized the existence of black holes?",
         "answer": "UNKNOWN",
-        "points": 40,
+        "points": 50,
         "image_link": "images/84.png"
     },
     {
@@ -934,7 +934,7 @@
             "Lise Meitner"
         ],
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 20,
         "image_link": "images/85.png"
     },
     {
@@ -942,7 +942,7 @@
         "type": "short_answer",
         "question": "What is the name of the vaccine that was developed by Jonas Salk in the 1950s to combat polio?",
         "answer": "UNKNOWN",
-        "points": 40,
+        "points": 30,
         "image_link": "images/86.png"
     },
     {
@@ -956,7 +956,7 @@
             "John Dalton"
         ],
         "answer": "UNKNOWN",
-        "points": 20,
+        "points": 10,
         "image_link": "images/87.png"
     },
     {
@@ -978,7 +978,7 @@
             "Carl Linnaeus"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 30,
         "image_link": "images/89.png"
     },
     {
@@ -986,7 +986,7 @@
         "type": "short_answer",
         "question": "What is the name of the 17th-century astronomer who discovered the four largest moons of Jupiter?",
         "answer": "UNKNOWN",
-        "points": 50,
+        "points": 30,
         "image_link": "images/90.png"
     },
     {
@@ -1000,7 +1000,7 @@
             "German"
         ],
         "answer": "UNKNOWN",
-        "points": 20,
+        "points": 10,
         "image_link": "images/91.png"
     },
     {
@@ -1022,7 +1022,7 @@
             "Radio"
         ],
         "answer": "UNKNOWN",
-        "points": 20,
+        "points": 30,
         "image_link": "images/93.png"
     },
     {
@@ -1030,7 +1030,7 @@
         "type": "short_answer",
         "question": "What is the name of the famous laboratory where Tesla conducted many of his experiments?",
         "answer": "UNKNOWN",
-        "points": 40,
+        "points": 50,
         "image_link": "images/94.png"
     },
     {
@@ -1052,7 +1052,7 @@
         "type": "short_answer",
         "question": "What is the name of the unit of magnetic flux density named after Tesla?",
         "answer": "UNKNOWN",
-        "points": 40,
+        "points": 30,
         "image_link": "images/96.png"
     },
     {
@@ -1066,7 +1066,7 @@
             "Perpetual Motion"
         ],
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 20,
         "image_link": "images/97.png"
     },
     {
@@ -1110,7 +1110,7 @@
             "Cows"
         ],
         "answer": "UNKNOWN",
-        "points": 20,
+        "points": 10,
         "image_link": "images/101.png"
     },
     {
@@ -1118,7 +1118,7 @@
         "type": "short_answer",
         "question": "What programming language is named after a British comedy group?",
         "answer": "UNKNOWN",
-        "points": 50,
+        "points": 40,
         "image_link": "images/102.png"
     },
     {
@@ -1140,7 +1140,7 @@
         "type": "short_answer",
         "question": "What is the name of the unit of frequency named after a Danish scientist who was famous for his pranks?",
         "answer": "UNKNOWN",
-        "points": 40,
+        "points": 30,
         "image_link": "images/104.png"
     },
     {
@@ -1162,7 +1162,7 @@
         "type": "short_answer",
         "question": "What is the name of the phenomenon where people perceive patterns or connections in random or meaningless data?",
         "answer": "UNKNOWN",
-        "points": 40,
+        "points": 30,
         "image_link": "images/106.png"
     },
     {
@@ -1176,7 +1176,7 @@
             "Ruby"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 20,
         "image_link": "images/107.png"
     },
     {
@@ -1184,7 +1184,7 @@
         "type": "short_answer",
         "question": "What is the name of the Internet's unofficial mascot, a creature with the body of a cat and the face of a human?",
         "answer": "UNKNOWN",
-        "points": 40,
+        "points": 30,
         "image_link": "images/108.png"
     },
     {
@@ -1198,7 +1198,7 @@
             "Honey"
         ],
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 20,
         "image_link": "images/117.png"
     },
     {
@@ -1206,7 +1206,7 @@
         "type": "short_answer",
         "question": "Which famous philosopher is known for dying by laughing at his own joke?",
         "answer": "UNKNOWN",
-        "points": 50,
+        "points": 30,
         "image_link": "images/118.png"
     },
     {
@@ -1220,7 +1220,7 @@
             "Richard Nixon"
         ],
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 10,
         "image_link": "images/119.png"
     },
     {
@@ -1228,7 +1228,7 @@
         "type": "short_answer",
         "question": "What was the name of the ancient Greek philosopher who lived in a barrel?",
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 40,
         "image_link": "images/120.png"
     },
     {
@@ -1242,7 +1242,7 @@
             "Ancient China"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 20,
         "image_link": "images/121.png"
     },
     {
@@ -1264,7 +1264,7 @@
             "Using pigeons"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 30,
         "image_link": "images/123.png"
     },
     {
@@ -1294,7 +1294,7 @@
         "type": "short_answer",
         "question": "What did the philosopher S\u00c3\u00b8ren Kierkegaard nickname his walking cane?",
         "answer": "UNKNOWN",
-        "points": 40,
+        "points": 30,
         "image_link": "images/126.png"
     },
     {
@@ -1316,7 +1316,7 @@
         "type": "short_answer",
         "question": "Which philosopher's last words were reportedly a request for a glass of wine?",
         "answer": "UNKNOWN",
-        "points": 50,
+        "points": 40,
         "image_link": "images/128.png"
     },
     {
@@ -1330,7 +1330,7 @@
             "Flowing robes"
         ],
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 10,
         "image_link": "images/129.png"
     },
     {
@@ -1338,7 +1338,7 @@
         "type": "short_answer",
         "question": "What unusual method did the philosopher John Locke recommend for remembering dreams?",
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 50,
         "image_link": "images/130.png"
     },
     {
@@ -1374,7 +1374,7 @@
             "Virus"
         ],
         "answer": "UNKNOWN",
-        "points": 20,
+        "points": 10,
         "image_link": "images/133.png"
     },
     {
@@ -1382,7 +1382,7 @@
         "type": "short_answer",
         "question": "What is the name of the widely known hacker group that uses a Guy Fawkes mask as its symbol?",
         "answer": "UNKNOWN",
-        "points": 50,
+        "points": 40,
         "image_link": "images/134.png"
     },
     {
@@ -1404,7 +1404,7 @@
         "type": "short_answer",
         "question": "What is the name of the iconic screensaver associated with the '90s hacker culture?",
         "answer": "UNKNOWN",
-        "points": 40,
+        "points": 50,
         "image_link": "images/136.png"
     },
     {
@@ -1412,13 +1412,13 @@
         "type": "multiple_choice",
         "question": "What is the name of the programming language designed as a joke, where the code looks like a Shakespearean play?",
         "options": [
-            "Brainfuck",
+            "Brainf$%k",
             "Piet",
             "Shakespeare",
             "Whitespace"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 20,
         "image_link": "images/137.png"
     },
     {
@@ -1426,7 +1426,7 @@
         "type": "short_answer",
         "question": "Which popular hacking tool is named after a dessert?",
         "answer": "UNKNOWN",
-        "points": 30,
+        "points": 50,
         "image_link": "images/138.png"
     },
     {
@@ -1440,7 +1440,7 @@
             "WarGames"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 20,
         "image_link": "images/139.png"
     },
     {
@@ -1448,7 +1448,7 @@
         "type": "short_answer",
         "question": "What is the name of the open-source hackable robot toy that can be programmed to perform various tasks?",
         "answer": "UNKNOWN",
-        "points": 40,
+        "points": 50,
         "image_link": "images/140.png"
     },
     {
@@ -1462,7 +1462,7 @@
             "Aircrack-ng"
         ],
         "answer": "UNKNOWN",
-        "points": 20,
+        "points": 30,
         "image_link": "images/141.png"
     },
     {
@@ -1470,7 +1470,7 @@
         "type": "short_answer",
         "question": "Which meme features a person wearing sunglasses and the caption 'I'm in'?",
         "answer": "UNKNOWN",
-        "points": 40,
+        "points": 30,
         "image_link": "images/142.png"
     },
     {
@@ -1484,7 +1484,7 @@
             "IBM"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 20,
         "image_link": "images/143.png"
     },
     {
@@ -1492,7 +1492,7 @@
         "type": "short_answer",
         "question": "What is the term for a person who hacks as a hobby or for fun, without malicious intent?",
         "answer": "UNKNOWN",
-        "points": 50,
+        "points": 30,
         "image_link": "images/144.png"
     },
     {
@@ -1500,13 +1500,13 @@
         "type": "multiple_choice",
         "question": "Which of these programming languages was designed as a joke, using only eight commands?",
         "options": [
-            "Brainfuck",
+            "Brainf$%k",
             "Piet",
             "Shakespeare",
             "Whitespace"
         ],
         "answer": "UNKNOWN",
-        "points": 10,
+        "points": 20,
         "image_link": "images/145.png"
     },
     {
@@ -1514,7 +1514,7 @@
         "type": "short_answer",
         "question": "Which text editor, popular among programmers, is humorously referred to as the final boss for a programmer?",
         "answer": "UNKNOWN",
-        "points": 40,
+        "points": 30,
         "image_link": "images/146.png"
     },
     {
@@ -1528,7 +1528,7 @@
             "WarGames"
         ],
         "answer": "UNKNOWN",
-        "points": 20,
+        "points": 30,
         "image_link": "images/147.png"
     },
     {
