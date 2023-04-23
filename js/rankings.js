@@ -7,27 +7,32 @@ function updateTable(jsonResponse) {
   // Add table header
   const header = rankingTable.createTHead();
   const headerRow = header.insertRow(0);
-  const headerName = headerRow.insertCell(0);
-  const headerScore = headerRow.insertCell(1);
-  const headerQuestions = headerRow.insertCell(2);
+  const headerRanking = headerRow.insertCell(0);
+  const headerName = headerRow.insertCell(1);
+  const headerScore = headerRow.insertCell(2);
+  const headerQuestions = headerRow.insertCell(3);
+  headerRanking.innerHTML = "RANK";
   headerName.innerHTML = "TEAM NAME";
   headerScore.innerHTML = "SCORE";
   headerQuestions.innerHTML = "ANSWERED QUESTIONS";
 
-  const sortedTeams = jsonResponse.teams.sort((a, b) => b[2] - a[2]);
+  const sortedTeams = jsonResponse.teams.sort((a, b) => b[2] - a[2]).slice(0, 20);
 
-  sortedTeams.forEach(team => {
+  sortedTeams.forEach((team, index) => {
     const row = rankingTable.insertRow(-1);
     row.style.backgroundColor = team[4]; // Set the row background color based on the team color
     row.style.color = 'black'; // Set the row text color to black
 
-    const nameCell = row.insertCell(0);
+    const rankCell = row.insertCell(0);
+    rankCell.textContent = index + 1;
+
+    const nameCell = row.insertCell(1);
     nameCell.textContent = team[0];
 
-    const scoreCell = row.insertCell(1);
+    const scoreCell = row.insertCell(2);
     scoreCell.textContent = team[2];
 
-    const questionsCell = row.insertCell(2);
+    const questionsCell = row.insertCell(3);
     questionsCell.textContent = team[3];
   });
 }
@@ -59,8 +64,6 @@ function updateCurrentTeamName() {
     teamNameDisplay.textContent = "No team selected";
   }
 }
-
-
 
 // Fetch data and update table every second
 setInterval(() => {
