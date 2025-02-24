@@ -1,3 +1,5 @@
+@catalinNe I am planning on open sourcing a much more up to date React/FastAPI version of this repo that hosted a coding comp for over 500 students last year. if youre insterested get in touch sanjin@cyber9.com.au and then ignore this PR :) 
+
 # WebQuiz
 This repository contains the source code for a simple quiz website built with HTML, CSS, and JavaScript. The quiz features multiple-choice and short-answer questions, as well as a team-based leaderboard.
 
